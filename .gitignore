@@ -1,0 +1,9 @@
+# Ignore virtual environment
+mp_env/
+venv/
+.env/
+__pycache__/
+*.pyd
+*.dll
+*.exe
+*.so
