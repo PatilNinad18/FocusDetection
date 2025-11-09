@@ -1,0 +1,364 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1762686387.159040   12312 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1762686387.170797   11564 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+E:\Focus_Detection\mp_env\lib\site-packages\google\protobuf\symbol_database.py:55: UserWarning: SymbolDatabase.GetPrototype() is deprecated. Please use message_factory.GetMessageClass() instead. SymbolDatabase.GetPrototype() will be removed soon.
+  warnings.warn('SymbolDatabase.GetPrototype() is deprecated. Please '
+🎥 AI Focus Tracker Started — Press 'q' to quit.
+
+🟢 Writing focus data to: E:\Focus_Detection\backend\focus_data.json
+🟢 Focus (Open) = 100.0
+Traceback (most recent call last):
+  File "E:\Focus_Detection\backend\main.py", line 107, in <module>
+    main()
+  File "E:\Focus_Detection\backend\main.py", line 46, in main
+    pen_moving, idle_time = pen_tracker.analyze_frame(frame)
+ValueError: too many values to unpack (expected 2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1762686708.704079   30832 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1762686708.715370   21848 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+E:\Focus_Detection\mp_env\lib\site-packages\google\protobuf\symbol_database.py:55: UserWarning: SymbolDatabase.GetPrototype() is deprecated. Please use message_factory.GetMessageClass() instead. SymbolDatabase.GetPrototype() will be removed soon.
+  warnings.warn('SymbolDatabase.GetPrototype() is deprecated. Please '
+🎥 AI Focus Tracker Started — Press 'q' to quit.
+
+🟢 Writing focus data to: E:\Focus_Detection\backend\focus_data.json
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 100.0
+🟢 Focus (Open) = 97.5
+🟢 Focus (Open) = 95.2
+🟢 Focus (Open) = 93.2
+🟢 Focus (Open) = 91.4
+🟢 Focus (Open) = 89.8
+🟢 Focus (Open) = 88.3
+🟢 Focus (Open) = 87.0
+🟢 Focus (Open) = 85.8
+🟢 Focus (Open) = 84.7
+🟢 Focus (Open) = 83.7
+🟢 Focus (Open) = 82.8
+🟢 Focus (Open) = 84.6
+🟢 Focus (Open) = 86.1
+🟢 Focus (Open) = 87.5
+🟢 Focus (Open) = 86.2
+🟢 Focus (Open) = 85.1
+🟢 Focus (Open) = 84.1
+🟢 Focus (Open) = 83.2
+🟢 Focus (Open) = 82.4
+🟢 Focus (Open) = 84.1
+🟢 Focus (Open) = 85.7
+🟢 Focus (Open) = 87.2
+🟢 Focus (Open) = 88.4
+🟢 Focus (Open) = 89.6
+🟢 Focus (Open) = 90.6
+🟢 Focus (Open) = 91.6
+🟢 Focus (Open) = 92.4
+🟢 Focus (Open) = 93.2
+🟢 Focus (Open) = 93.9
+🟢 Focus (Open) = 94.5
+🟢 Focus (Open) = 95.0
+🟢 Focus (Open) = 95.5
+🟢 Focus (Open) = 96.0
+🟢 Focus (Open) = 96.4
+🟢 Focus (Open) = 96.7
+🟢 Focus (Open) = 97.1
+Focus Score: 87.4
+Focus Score: 78.6
+Focus Score: 70.8
+Focus Score: 63.7
+Focus Score: 57.3
+Focus Score: 51.6
+Focus Score: 46.4
+Focus Score: 41.8
+Focus Score: 37.6
+Focus Score: 33.8
+Focus Score: 30.5
+Focus Score: 27.4
+Focus Score: 24.7
+Focus Score: 22.2
+Focus Score: 20.0
+Focus Score: 18.0
+🟢 Focus (Open) = 23.7
+🟢 Focus (Open) = 28.8
+🟢 Focus (Open) = 33.4
+🟢 Focus (Open) = 37.6
+🟢 Focus (Open) = 41.3
+🟢 Focus (Open) = 44.7
+🟢 Focus (Open) = 47.7
+🟢 Focus (Open) = 50.5
+🟢 Focus (Open) = 52.9
+🟢 Focus (Open) = 55.1
+🟢 Focus (Open) = 57.1
+🟢 Focus (Open) = 58.9
+🟢 Focus (Open) = 60.5
+🟢 Focus (Open) = 62.0
+🟢 Focus (Open) = 63.3
+🟢 Focus (Open) = 64.4
+🟢 Focus (Open) = 65.5
+🟢 Focus (Open) = 66.4
+🟢 Focus (Open) = 67.3
+🟢 Focus (Open) = 68.1
+🟢 Focus (Open) = 68.8
+🟢 Focus (Open) = 69.4
+🟢 Focus (Open) = 69.9
+🟢 Focus (Open) = 70.5
+🟢 Focus (Open) = 70.9
+🟢 Focus (Open) = 71.3
+🟢 Focus (Open) = 71.7
+🟢 Focus (Open) = 72.0
+🟢 Focus (Open) = 72.3
+🟢 Focus (Open) = 72.6
+🟢 Focus (Open) = 72.8
+🟢 Focus (Open) = 73.0
+🟢 Focus (Open) = 73.2
+🟢 Focus (Open) = 73.4
+🟢 Focus (Open) = 73.6
+🟢 Focus (Open) = 73.7
+🟢 Focus (Open) = 73.8
+🟢 Focus (Open) = 74.0
+🟢 Focus (Open) = 74.1
+🟢 Focus (Open) = 74.2
+🟢 Focus (Open) = 74.2
+🟢 Focus (Open) = 74.3
+🟢 Focus (Open) = 74.4
+🟢 Focus (Open) = 74.4
+🟢 Focus (Open) = 74.5
+🟢 Focus (Open) = 74.6
+🟢 Focus (Open) = 74.6
+🟢 Focus (Open) = 74.6
+🟢 Focus (Open) = 74.7
+🟢 Focus (Open) = 74.7
+🟢 Focus (Open) = 74.7
+🟢 Focus (Open) = 74.8
+🟢 Focus (Open) = 74.8
+🟢 Focus (Open) = 74.8
+🟢 Focus (Open) = 74.8
+🟢 Focus (Open) = 74.8
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 74.9
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 75.0
+🟢 Focus (Open) = 77.5
+🟢 Focus (Open) = 79.7
+🟢 Focus (Open) = 81.8
+🟢 Focus (Open) = 81.1
+🟢 Focus (Open) = 80.5
+🟢 Focus (Open) = 77.4
+🟢 Focus (Open) = 74.7
+🟢 Focus (Open) = 72.2
+🟢 Focus (Open) = 70.0
+🟢 Focus (Open) = 68.0
+🟢 Focus (Open) = 66.2
+🟢 Focus (Open) = 64.6
+🟢 Focus (Open) = 63.1
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟢 Focus (Open) = 52.5
+🟢 Focus (Open) = 54.8
+🟢 Focus (Open) = 56.8
+🟢 Focus (Open) = 56.1
+🟢 Focus (Open) = 55.5
+🟢 Focus (Open) = 54.9
+🟢 Focus (Open) = 54.4
+🟢 Focus (Open) = 54.0
+🟢 Focus (Open) = 53.6
+🟢 Focus (Open) = 53.2
+🟢 Focus (Open) = 52.9
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🟠 Eyes closed detected → Focus = 50%
+🛑 Exiting Focus Session...
+✅ Session ended and focus data saved.

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['book', 'marker', 'pen', 'pencil']
+
+roboflow:
+  workspace: ninad-ixums
+  project: pen-detection-mhxqk
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ninad-ixums/pen-detection-mhxqk/dataset/2
